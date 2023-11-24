@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Updte Bing Chat Enterprise Character Limit
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Modify maxlength of a field in shadow root
 // @author       Arjun Bery
 // @match        https://www.bing.com/*
