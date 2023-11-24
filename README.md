@@ -23,4 +23,4 @@ This feature allows you to automatically increase the Bing Enterprise Chat text 
 ![image](https://github.com/arjunrbery/bing-chat-update-length/assets/20059577/9fcd6c36-dff9-4f41-80dd-e32ec0218b42)
 
 ## Credits
-Thanks to [[Kevin Okemwa](https://onmsft.com/author/kevin-okemwa/)](https://onmsft.com/news/extend-your-bing-chat-character-limit-to-25000/) for [the guide on updating the character limit](https://onmsft.com/news/extend-your-bing-chat-character-limit-to-25000/)
+Thanks to [Kevin Okemwa](https://onmsft.com/author/kevin-okemwa/) for [the guide on updating the character limit](https://onmsft.com/news/extend-your-bing-chat-character-limit-to-25000/)
